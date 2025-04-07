@@ -1,0 +1,519 @@
+#Abies canadensis [Abies-c.]
+
+#Psychisme
+- AGITATION, nervositŽ.
+- AGITATION, nervositŽ: nuit, la.
+- CALME: disposition ˆ tre calme.
+- INATTENTIF.
+- IRRITABILITƒ.
+
+#Vertige
+- VERTIGE.
+
+#Estomac
+- º APPƒTIT: augmentŽ, faim. ·
+- APPƒTIT: vorace, faim canine, excessive.
+- AVERSION: acides, pour les.
+- AVERSION: condiments, pour les.
+- AVERSION: viande, pour la.
+- DƒSIR: assaisonnŽs, d’ aliments tr s. [3]
+- DƒSIR: condiments, de.
+- DƒSIR: lŽgumes, de. [2]
+- DƒSIR: radis, de. [3]
+- Ä DƒSIR: surs, d’ aliments, acides, etc. [2]·
+- DƒSIR: viande, de.
+- DOULEURS: bržlure, ˆ type de.
+- DOULEURS: rongement, ˆ type de.
+- ƒRUCTATIONS: gŽnŽral, en.
+
+#Abdomen
+- FOIE ET A LA RƒGION DU FOIE, Localisation au.
+- GRONDEMENT DANS L’ ABDOMEN: repas: apr s le repas.
+- RATE, Maladies de la.
+
+#Rectum Anus
+- CONSTIPATION.
+- DOULEURS: bržlure, ˆ type de.
+
+#FŽminin
+- MOLLESSE: l’ utŽrus donne l’ impression d’ tre mou.
+
+#Poitrine
+- Ä PALPITATIONS: repas, apr s le. ·
+
+#Dos
+- Ä DOULEURS: dos en gŽnŽral, dans le: dorsale, dans la rŽgion: omoplates, au niveau des: droite, de l’ omoplate: sous l’ omoplate droite. ·
+- FROID, Sensation de, frisson: se propageant: long du dos, le: descendant, en.
+- FROID, Sensation de, frisson: dorsale, dans la rŽgion: omoplates: entre les omoplates.
+- FROID, Sensation de, frisson: dorsale, dans la rŽgion: omoplates: entre les omoplates: eau froide, comme par de l’.
+
+#Membres
+- DESSéCHEMENT: main, de la.
+- FROIDEUR: mains, des.
+- PARALYSIE: douleurs: indolore.
+
+#Sommeil
+- BåILLEMENTS.
+- SOMNOLENCE.
+
+#GŽnŽralitŽs
+- CïTƒS: droit, sympt™mes du c™tŽ.
+- DOULEURS: bržlure, ˆ type de: internes.
+- FAIBLESSE PHYSIQUE, affaiblissement.
+- PRESSION: amŽlioration par la pression.
+- SYNCOPE, Žvanouissement.
+
+#Abies nigra [Abies-n.]
+
+#Psychisme
+- AGITATION, nervositŽ.
+- AGITATION, nervositŽ: nuit, la.
+- Ä GROSSIER. [3]·
+- LOURDEUR D’ ESPRIT, difficultŽ ˆ penser et ˆ comprendre.
+- Ä TRISTESSE, dŽpression nerveuse. ·
+
+#Vertige
+- VERTIGE.
+
+#T te
+- CHALEUR: chaleur ˆ la t te.
+
+#Gorge interne
+- Ä CORPS ƒTRANGER, Sensation de. [3]·
+
+#Estomac
+- APPƒTIT: augmentŽ, faim: midi, ˆ.
+- APPƒTIT: augmentŽ, faim: nuit, la.
+- APPƒTIT: manque d’ appŽtit: matin, le.
+- APPƒTIT: vorace, faim canine, excessive: midi, ˆ.
+- APPƒTIT: vorace, faim canine, excessive: nuit, la.
+- APPƒTIT: vorace, faim canine, excessive: sommeil, emp chant le.
+- Ä BOULE DANS L’ ESTOMAC, Sensation de: repas, apr s le. ·
+- Ä BOULE DANS L’ ESTOMAC, Sensation de: cardia, au niveau du. [3]·
+- DƒSIR: concombres, de.
+- DOULEURS: gŽnŽral, en.
+- Ä DOULEURS: gŽnŽral, en: repas: apr s le repas. ·
+- DOULEURS: meurtrissure, ˆ type de, comme apr s avoir ŽtŽ battu, sensibilitŽ de l’ estomac ˆ la pression.
+- DOULEURS: pression, ˆ type de: poids, comme par un.
+- ƒRUCTATIONS: liquides, rŽgurgitations.
+- ƒRUCTATIONS: vide, ˆ.
+- LOURDEUR, Sensation de, de poids, oppression de l’ estomac.
+- Ä LOURDEUR, Sensation de, de poids, oppression de l’ estomac: repas: apr s le repas. ·
+- PIERRE, Sensation de.
+
+#Rectum Anus
+- CONSTIPATION.
+
+#Selles
+- DURES.
+
+#Vessie
+- MICTION: frŽquente.
+- MICTION: retard, en, l’ urine ne commence ˆ couler qu’ apr s un temps d’ attente: presser, il est obligŽ de: un long moment avant de pouvoir commencer ˆ uriner.
+- MICTION: retard, en, l’ urine ne commence ˆ couler qu’ apr s un temps d’ attente: presser, il est obligŽ de: miction douloureuse et frŽquente, avec tendance ˆ s’ asseoir et ˆ faire un effort prolongŽ pour uriner, apr s quoi il n’ Žvacue que quelques gouttes.
+
+#FŽminin
+- º RéGLES: jour seulement, le. [255]·
+
+#Respiration
+- DIFFICILE.
+
+#Dos
+- DOULEURS: dos en gŽnŽral, dans le.
+
+#Sommeil
+- INSOMNIE: faim, due ˆ la.
+- PERTURBE: faim, par la.
+- SOMNOLENCE.
+
+#GŽnŽralitŽs
+- Ä MATIN, Le. ·
+- COUCHE: aggravation: couchŽ, quand il est.
+- DOULEURS: os, des.
+- DOULEURS: coupure, ˆ type de: internes.
+- Ä DOULEURS: pression, ˆ type de: lourde charge, comme par une. ·
+- FAIBLESSE PHYSIQUE, affaiblissement.
+- REPAS: apr s le repas.
+
+#Abrotanum [Abrot.]
+
+#Psychisme
+- AGITATION, nervositŽ.
+- AGITATION, nervositŽ: nuit, la.
+- Ä ALTERNANCE DE SYMPTïMES MENTAUX ET PHYSIQUES. [3]·
+- Ä ANXIƒTƒ. ·
+- CRUAUTƒ.
+- EFFORT: intellectuel: aggravation par l’ effort intellectuel.
+- EXCITATION NERVEUSE.
+- GAIETƒ, il se sent heureux.
+- HALLUCINATIONS, imaginations, illusions: ramollissement cŽrŽbral, il a un.
+- HALLUCINATIONS, imaginations, illusions: voix: il entend des voix.
+- HALLUCINATIONS, imaginations, illusions: voix: il entend des voix: lit, quand il est au, elles cessent quand il Žcoute attentivement.
+- HUMEUR: agrŽable.
+- HYSTƒRIE.
+- IRRITABILITƒ.
+- IRRITABILITƒ: enfant, chez un.
+- LOQUACITƒ.
+- LOURDEUR D’ ESPRIT, difficultŽ ˆ penser et ˆ comprendre.
+- MƒCHANCETƒ.
+- MƒMOIRE: faiblesse de la mŽmoire.
+- OUBLI, Tendance ˆ l’.
+- PARLER: taciturne, peu enclin ˆ parler, il prŽf re rester silencieux.
+- PEUR: maladie, d’ une: ramollissement cŽrŽbral, du. [3]
+- PROSTRATION DE L’ ESPRIT.
+- SURSAUTS: sommeil: rŽveil en sursaut.
+- TRAVAIL: aversion pour le travail, indolence.
+- TRISTESSE, dŽpression nerveuse.
+- VIOLENT.
+
+#T te
+- FROID: sensation de froid.
+- PLƒNITUDE, Sensation de.
+- PRURIT DU CUIR CHEVELU.
+
+#CŽphalŽes
+- CƒPHALƒE EN GƒNƒRAL.
+- CƒPHALƒE EN GƒNƒRAL: alternant: hŽmorro•des, avec des.
+- MEURTRISSURE, A type de, sensibilitŽ ˆ la pression.
+
+#Yeux
+- ATONIE: yeux atones.
+- OUVERTURE DES YEUX: incapable d’ ouvrir les yeux, il est.
+- ROUGEUR.
+
+#Oreilles
+- BRUITS DANS LES OREILLES: afflux liquidien, comme un.
+- BRUITS DANS LES OREILLES: bourdonnement des insectes, comme le, de type « zzz… ».
+- BRUITS DANS LES OREILLES: fredonnement, de type « mmm… », ˆ bouche fermŽe.
+- BRUITS DANS LES OREILLES: vent, comme le bruit du.
+- VENT: sensation de vent dans l’ oreille: sortant de l’ oreille.
+
+#Nez
+- ƒCOULEMENT: aqueux.
+- ƒPISTAXIS.
+- ƒPISTAXIS: plŽthorique, chez un patient. [3]
+- SƒCHERESSE: interne.
+
+#Face
+- COLORATION: bleu‰tre: yeux cernŽs.
+- DOULEURS, prosopalgie: gŽnŽral, en.
+- DOULEURS, prosopalgie: tiraillantes.
+- Ä ƒRUPTION: comŽdons. ·
+- Ä FACIéS: vieillot. ·
+- FROIDEUR DE LA FACE.
+- Ä PLISSEMENT. ·
+- VEINES, Dilatation des: front, du. [3]
+
+#Bouche
+- CHALEUR, Sensation de: matin, le.
+- DOULEURS: meurtrissure, ˆ type de.
+- DOULEURS: meurtrissure, ˆ type de: langue, de la.
+- GOóT: anormal: sur.
+- GOóT: anormal: vase, de.
+
+#Dents
+- CARIES, dents creuses.
+- DOULEURS: dŽchirement, ˆ type de.
+- DOULEURS: tiraillantes.
+- DOULEURS: tiraillantes: dŽchirement, avec sensation de.
+
+#Gorge interne
+- RACLEMENT DE GORGE.
+
+#Gorge externe
+- DOULEURS: c™tŽs du cou, dans les.
+
+#Estomac
+- ANXIƒTƒ RESSENTIE DANS L’ ESTOMAC. [3]
+- APPƒTIT: augmentŽ, faim.
+- APPƒTIT: augmentŽ, faim: tenaillante, faim.
+- APPƒTIT: manque d’ appŽtit.
+- APPƒTIT: vorace, faim canine, excessive.
+- Ä APPƒTIT: vorace, faim canine, excessive: Žmaciation, avec. ·
+- Ä APPƒTIT: vorace, faim canine, excessive: marasme, avec. ·
+- BALLONNEMENT DE L’ ESTOMAC.
+- CHALEUR, BouffŽes de.
+- DESCENTE D’ ESTOMAC, Sensation de.
+- DƒSIR: lait, de: bouilli.
+- DƒSIR: pain, de.
+- DƒSIR: pain, de: bouilli dans le lait.
+- Ä DOULEURS: gŽnŽral, en. ·
+- Ä DOULEURS: gŽnŽral, en: nuit, la. ·
+- DOULEURS: bržlure, ˆ type de.
+- DOULEURS: bržlure, ˆ type de: soir, le.
+- Ä DOULEURS: bržlure, ˆ type de: nuit, la. ·
+- Ä DOULEURS: coupure, ˆ type de. ·
+- DOULEURS: coupure, ˆ type de: nuit, la.
+- DOULEURS: crampes, ˆ type de, d’ Žtreinte, de constriction.
+- DOULEURS: crampes, ˆ type de, d’ Žtreinte, de constriction: nuit, la.
+- DOULEURS: meurtrissure, ˆ type de, comme apr s avoir ŽtŽ battu, sensibilitŽ de l’ estomac ˆ la pression: soir, le.
+- DOULEURS: piquantes.
+- DOULEURS: rongement, ˆ type de.
+- DOULEURS: rongement, ˆ type de: nuit, la.
+- ƒRUCTATIONS: gŽnŽral, en: soir, le.
+- ƒRUCTATIONS: sure, d’ odeur.
+- ƒRUCTATIONS: vide, ˆ: soir, le.
+- FROID, Sensation de.
+- INDIGESTION, dans cette rubrique sont inclus les troubles apr s absorption de substances non prŽcisŽes.
+- PENDANT, Sensation d’ estomac, rel‰chŽ.
+- VIDE, Sensation de, faiblesse, malaise, rel‰chement, faim.
+
+#Abdomen
+- Ä BALLONNEMENT DE L’ ABDOMEN. ·
+- CHALEUR, Sensation de.
+- DOULEURS: gŽnŽral (en) sourdes: nuit, la.
+- DOULEURS: gŽnŽral (en) sourdes: hypocondres, dans les.
+- Ä DOULEURS: crampes, ˆ type de, d’ Žtreinte. ·
+- DOULEURS: tiraillantes.
+- Ä ƒCOULEMENT OMBILICAL. ·
+- ƒCOULEMENT OMBILICAL: de liquide sanguinolent. [3]
+- FOIE ET A LA RƒGION DU FOIE, Localisation au.
+- RATE, Maladies de la.
+- RƒTRACTION: abdomen, de l’: sensation de rŽtraction.
+- TRESSAILLEMENT ET SECOUSSES: inguinale, dans la rŽgion.
+- TRESSAILLEMENT ET SECOUSSES: inguinale, dans la rŽgion: se propageant: dos, jusqu’ au.
+
+#Rectum Anus
+- BESOIN D’ ALLER A LA SELLE.
+- BESOIN D’ ALLER A LA SELLE: frŽquent.
+- BESOIN D’ ALLER A LA SELLE: selle: pendant la selle.
+- Ä CONSTIPATION. ·
+- Ä CONSTIPATION: diarrhŽe, alternant avec de la. ·
+- DIARRHƒE: nuit, la.
+- DIARRHƒE: amŽlioration de tous les sympt™mes par la survenue d’ une diarrhŽe. [3]
+- HƒMORROìDES.
+- HƒMORROìDES: externes.
+- HƒMORROìDES: rhumatisme, apr s la rŽmission du.
+- Ä HƒMORROìDES: saignement: qui saignent: d s que le rhumatisme va mieux. ·
+- HƒMORROìDES: toucher, aggravation au.
+- VERS: oxyures.
+
+#Selles
+- LIENTƒRIQUES, contenant des aliments ˆ demi digŽrŽs.
+
+#Vessie
+- BESOIN D’ URINER: selle, apr s la.
+- MICTION: incompl te: la vessie est pleine, il a besoin d’ uriner, mais l’ urine est peu abondante.
+- PLƒNITUDE, Sensation de.
+
+#Reins
+- DOULEURS: gŽnŽral, en: rŽgion des reins, dans la.
+- DOULEURS: meurtrissure, ˆ type de: rŽgion des reins, dans la.
+
+#Ur tre
+- ULCƒRATION: mŽat, du.
+
+#Urine
+- ABONDANCE: peu abondante.
+
+#Masculin
+- DOULEURS: testicules, des.
+- GONFLEMENT: testicules, des: oreillons, provoquŽ par les.
+- HYDROCéLE.
+- Ä HYDROCéLE: Žruption, apr s la suppression d’ une. ·
+- Ä HYDROCéLE: gar on, chez un. ·
+- Ä MƒTASTASE OURLIENNE. ·
+
+#FŽminin
+- DOULEURS: ovaires, des: gauche, de l’ ovaire.
+- DOULEURS: ovaires, des: irradiant: dos: jusqu’ au dos.
+- DOULEURS: bržlure, ˆ type de: ovaires, des.
+- DOULEURS: bržlure, ˆ type de: ovaires, des: gauche, de l’ ovaire.
+- DOULEURS: dŽchirement, ˆ type de: ovaires, des.
+- DOULEURS: piquantes comme par des aiguilles: ovaires, des.
+- DOULEURS: piquantes comme par des aiguilles: ovaires, des: gauche, de l’ ovaire.
+- RéGLES: douloureuses, dysmŽnorrhŽe.
+- Ä RéGLES: suppression des r gles. ·
+
+#Larynx TrachŽe
+- VOIX: enrouŽe: soudainement.
+- VOIX: faible.
+
+#Respiration
+- ANXIEUSE.
+- DIFFICILE.
+- Ä DIFFICILE: rhumatisme cardiaque, au cours d’ un. ·
+- Ä GæNƒE, emp chŽe. ·
+
+#Poitrine
+- DOULEURS: gŽnŽral, en: mouvement: aggravation par le mouvement.
+- Ä DOULEURS: gŽnŽral, en: rhumatismale, d’ origine. ·
+- Ä DOULEURS: gŽnŽral, en: coeur: du coeur. ·
+- Ä DOULEURS: gŽnŽral, en: coeur: du coeur: rhumatismale, d’ origine. ·
+- DOULEURS: gŽnŽral, en: c™tŽs de la poitrine, des: droit, du c™tŽ.
+- DOULEURS: bržlure, ˆ type de: c™tŽs de la poitrine, des: droit, du c™tŽ.
+- DOULEURS: coupure, douleurs soudaines et vives ˆ type de: coeur: du coeur.
+- Ä DOULEURS: piquantes comme par des aiguilles: coeur, du. ·
+- DOULEURS: piquantes comme par des aiguilles: c™tŽs de la poitrine, des: droit, du c™tŽ.
+- DOULEURS: tiraillantes.
+- DOULEURS: tiraillantes: mouvement, provoquŽes par le.
+- Ä INFLAMMATION: coeur, du: endocardite. ·
+- INFLAMMATION: pleurŽsie.
+
+#Dos
+- DOULEURS: dos en gŽnŽral, dans le: apr s-midi, l’.
+- DOULEURS: dos en gŽnŽral, dans le: rŽveille, quand il se.
+- DOULEURS: dos en gŽnŽral, dans le: cervicale, dans la rŽgion.
+- DOULEURS: dos en gŽnŽral, dans le: lombaire, dans la rŽgion: irradiant: testicules, jusqu’ aux.
+- DOULEURS: dos en gŽnŽral, dans le: sacrŽe, dans la rŽgion.
+- DOULEURS: faiblesse paralytique, ˆ type de.
+- DOULEURS: faiblesse paralytique, ˆ type de: rŽveille, quand il se.
+- DOULEURS: sourdes.
+- DOULEURS: sourdes: apr s-midi, l’.
+- FAIBLESSE DANS LA COLONNE VERTƒBRALE, Sensation de fatigue ou de.
+
+#Membres
+- Ä ATROPHIE: infŽrieur, du membre. ·
+- Ä ATROPHIE: jambe, de la. ·
+- ENGELURES.
+- ENGELURES: pieds, des.
+- ENGOURDISSEMENT.
+- ENGOURDISSEMENT: supŽrieur, du membre.
+- ENGOURDISSEMENT: main, de la.
+- ENGOURDISSEMENT: doigts, des.
+- ENGOURDISSEMENT: pied, du.
+- FAIBLESSE.
+- FAIBLESSE: supŽrieurs, des membres.
+- FAIBLESSE: genou, du.
+- FAIBLESSE: jambe, de la: soir, le.
+- FAIBLESSE: cheville, de la.
+- FROIDEUR: doigts, des: bout des doigts, du.
+- FROIDEUR: pieds, des.
+- Ä GONFLEMENT: gonflement: articulations, des. ·
+- IMPATIENCES: supŽrieurs, dans les membres: nuit, la: pendant le sommeil.
+- LIEN, Sensation de: supŽrieur, comme si le membre: Žtait liŽ avec une corde.
+- MALADRESSE: main, de la: tomber les objets, il laisse.
+- MALADRESSE: main, de la: tomber les objets, il laisse: il l‰che les r nes quand il m ne une voiture.
+- NODOSITƒS: arthritiques.
+- PARALYSIE.
+- Ä PARALYSIE: sensation de paralysie. ·
+- Ä PARALYSIE: supŽrieur, du membre: sensation de paralysie. ·
+- Ä PARALYSIE: infŽrieur, du membre. ·
+- PARALYSIE: infŽrieur, du membre: droit.
+- Ä PARALYSIE: genou, du: cheville, de la. ·
+- PARƒSIE.
+- PARƒSIE: matin, le, au rŽveil.
+- PARƒSIE: articulations, des.
+- PARƒSIE: supŽrieur, du membre.
+- PARƒSIE: supŽrieur, du membre: matin, le: au rŽveil.
+- PARƒSIE: supŽrieur, du membre: rŽveille, quand il se.
+- PARƒSIE: Žpaule, de l’.
+- PARƒSIE: Žpaule, de l’: matin, le, au rŽveil.
+- PARƒSIE: bras, du.
+- PARƒSIE: bras, du: circule, quand il.
+- PARƒSIE: main, de la.
+- PARƒSIE: main, de la: ˆ 10 h du matin.
+- PARƒSIE: hanche, de la.
+- PARƒSIE: genou, du.
+- PARƒSIE: genou, du: matin, le.
+- PARƒSIE: cheville, de la.
+- PARƒSIE: pied, du.
+- PRURIT.
+- RAIDEUR.
+- RAIDEUR: articulations, des.
+
+#Douleurs Membres
+- Ä GƒNƒRAL, En. ·
+- Ä GƒNƒRAL, En: rhumatismale, d’ origine. ·
+- GƒNƒRAL, En: rhumatismale, d’ origine: alternant: hŽmorro•des, avec des.
+- Ä GƒNƒRAL, En: rhumatismale, d’ origine: diarrhŽe: apr s suppression de la diarrhŽe. ·
+- Ä GƒNƒRAL, En: rhumatismale, d’ origine: hŽmorro•des, apr s suppression des. ·
+- Ä ARTICULATIONS, Des: goutte, dues ˆ la. ·
+- ARTICULATIONS, Des: rhumatismale, d’ origine.
+- SUPƒRIEUR, Du membre.
+- SUPƒRIEUR, Du membre: mouvement: amŽlioration par le mouvement.
+- SUPƒRIEUR, Du membre: rŽveille, quand il se.
+- SUPƒRIEUR, Du membre: rhumatismale, d’ origine.
+- ƒPAULE, De l’.
+- ƒPAULE, De l’: nuit, la.
+- ƒPAULE, De l’: rŽveille, quand il se.
+- ƒPAULE, De l’: irradiant: coude, jusqu’ au.
+- BRAS, Du.
+- BRAS, Du: apr s-midi, l’.
+- COUDE, Du.
+- COUDE, Du: matinŽe, pendant la.
+- MAIN, De la.
+- MAIN, De la: soir, le.
+- INFƒRIEURS, Des membres.
+- HANCHE, De la.
+- HANCHE, De la: apr s-midi, l’.
+- HANCHE, De la: rhumatismale, d’ origine.
+- CUISSE, De la.
+- GENOU, Du.
+- GENOU, Du: matin, le.
+- GENOU, Du: apr s-midi, l’.
+- JAMBE, De la.
+- JAMBE, De la: rŽveille, quand il se.
+- CHEVILLE, De la.
+- CHEVILLE, De la: externe, au niveau de la face.
+- PIED, Du.
+- PIED, Du: mouvement: amŽlioration par le mouvement.
+- PIED, Du: rŽveille, quand il se.
+- BRóLURE, A type de.
+- BRóLURE, A type de: articulations, des.
+- MEURTRISSURE, A type de.
+- MEURTRISSURE, A type de: articulations, des.
+- MEURTRISSURE, A type de: articulations, des: matin, le: rŽveil, au.
+- MEURTRISSURE, A type de: Žpaule, de l’.
+- MEURTRISSURE, A type de: Žpaule, de l’: matin, le: rŽveil, au.
+- MEURTRISSURE, A type de: main, de la.
+- MEURTRISSURE, A type de: hanche, de la.
+- MEURTRISSURE, A type de: hanche, de la: irradiant: genou, jusqu’ au.
+- MEURTRISSURE, A type de: genou, du: soir, le.
+- PIQUANTES.
+- PIQUANTES: bras, du.
+- PIQUANTES: doigts, des: bout des doigts, du.
+- PIQUANTES: cheville, de la.
+- SOURDES: Žpaule, de l’.
+- SOURDES: Žpaule, de l’: irradiant: coude, jusqu’ au.
+- SOURDES: bras, du.
+- SOURDES: bras, du: circule, quand il.
+- SOURDES: doigts, des.
+- SOURDES: doigts, des: index, de l’.
+- TIRAILLANTES: cheville, de la.
+
+#Sommeil
+- INSOMNIE.
+- POSITION PENDANT LE SOMMEIL: abdomen, sur l’.
+- RƒPARATEUR, Peu.
+- RæVES: angoissants.
+- RæVES: chiens, de.
+- RæVES: chiens, de: fous.
+- RæVES: effrayants.
+- SOMNOLENCE.
+
+#Frisson
+- FROID.
+
+#Fi vre
+- HECTIQUE.
+- INTENSE, Acc s de chaleur.
+
+#Transpiration
+- ABONDANCE: abondante.
+
+#Peau
+- ƒRUPTION: furoncles.
+
+#GŽnŽralitŽs
+- MATIN, Le.
+- SOIR: le soir.
+- NUIT: la nuit.
+- AIR: grand air: amŽlioration au grand air.
+- CHANGEMENTS: temps, aggravation par les changements de.
+- CONSTRICTION: sensation de constriction: pŽriphŽrique.
+- DOULEURS: piquantes: internes.
+- DOULEURS: piquantes: pŽriphŽriques.
+- DOULEURS: pression, ˆ type de: pŽriphŽriques.
+- º ƒMACIATION. ·
+- Ä ƒMACIATION: haut, se propageant de bas en.
+- Ä ƒMACIATION: marasme des enfants. ·
+- ENGOURDISSEMENT: pŽriphŽrique.
+- FAIBLESSE PHYSIQUE, affaiblissement.
+- Ä FROID: aggravation: air froid, par l’. ·
+- º MƒTASTATIQUES, Maladies. ·
+- MOUVEMENT: aggravation: par le mouvement.
+- MOUVEMENT: amŽlioration par le mouvement: affectŽe, de la rŽgion.
+- PICOTEMENT, Sensation de: interne.
+- TREMBLEMENTS.
+- TREMBLEMENTS: rŽveille, quand il se
